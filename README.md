@@ -15,10 +15,10 @@ Features demonstrated:
 - Application Insights monitoring
 
 ### StudentTaskManagerPHP
-PHP 8.x application deployed separately to Azure App Service.
+PHP 8.5 application deployed separately to Azure App Service.
 
 Features demonstrated:
-- PHP 8.x runtime
+- PHP 8.5 runtime
 - Separate Linux App Service
 - Deployment through VS Code Azure tools
 
