@@ -1,0 +1,7 @@
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\StudentTaskManagerWeb.exe
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\StudentTaskManagerWeb.dll
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\StudentTaskManagerWeb.deps.json
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\StudentTaskManagerWeb.runtimeconfig.json
+C:\Users\dinod\source\repos\StudentTaskManagerWeb\StudentTaskManagerWeb\obj\Release\net10.0\PubTmp\Out\StudentTaskManagerWeb.pdb

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/945479c9-d9f9-4740-9db4-ef9adf015425/resourceGroups/StudentTaskManagerPHP-RG/providers/Microsoft.Web/sites/StudentTaskManagerPHP-Dinoda-2026",
+    "appService.deploySubpath": "."
+}
